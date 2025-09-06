@@ -1,0 +1,470 @@
+@ caciitg
+
+Summer Projects ‘25
+Solving Inventory
+Inefficiencies Using
+Advanced SQL Analytics
+
+
+
+
+Optimizing
+Revenue Leakage
+and Profitability in
+the Hospitality
+Sector
+
+
+Ethical Supply Chain
+in the Electronics
+Industry
+
+
+
+Addressing
+Domestic
+Violence in India
+
+Link in the Bio
+
+@ caciitg
+
+Solving Inventory Inefficiencies
+Using SQL
+
+Introduction
+
+
+Urban Retail Co. is a rapidly expanding mid-sized retail chain with a presence in both
+physical stores and online platforms. We operate across several cities and offer more than
+5,000 diverse stock keeping units (SKUs), ranging from daily groceries and home essentials
+to electronics and personal care items. Our logistics network depends on regional
+warehouses that feed inventory to individual retail outlets.
+
+With growing complexity in operations, we are struggling to maintain optimal inventory
+levels. While data from our sales transactions, product catalogs, and warehouse logs is
+available, it is underutilized, leading to significant inefficiencies in inventory management.
+
+The Challenge
+
+
+Our current issues stem from reactive, manual decision-making and a lack of integrated data analytics
+Frequent stockouts of fast-moving products, resulting in missed sales and poor customer
+experience
+Overstocking of slow-moving items, locking up working capital and increasing warehousing costs
+Lack of real-time insights into SKU performance, reorder thresholds, and supplier reliability
+Poor visibility across product categories, store locations, and regions.
+
+We strongly believe that leveraging SQL-based analytics can convert our raw data into actionable
+insights that will enhance our inventory management practices and decision-making process.
+
+
+
+Your Missio
+As a team of aspiring data analysts, your goal is to design and implement a SQL-driven inventory
+monitoring and optimization solution. This project will simulate the core responsibilities of a data
+analyst in a retail setting.
+
+
+
+You are expected to:
+
+Create efficient and scalable SQL queries to extract, transform, and analyze inventory and sales data
+Diagnose inefficiencies, suggest corrective actions, and predict future needs based on data
+Deliver both technical outputs (SQL scripts, schema designs) and analytical insights that the business
+can act on.
+
+@ caciitg
+
+Key Tasks and Deliverables
+
+ 
+
+SQL Queries
+
+
+You will write and test a suite of advanced SQL queries that enable the following
+Stock Level Calculations across stores and warehouse
+Low Inventory Detection based on reorder point
+Reorder Point Estimation using historical trend
+Inventory Turnover Analysi
+Summary Reports with KPIs like stockout rates, inventory age, and average stock levels
+
+
+
+Database Optimizatio
+Normalize a given raw inventory dataset into a relational schem
+Apply best practices for query performance: indexing, joining, use of window functions, etc.
+
+
+
+Analytical Outputs
+
+
+Use your queries to produce reports and dashboards (or summaries) tha
+Identify fast-selling vs slow-moving product
+Recommend stock adjustments to reduce holding cost
+Highlight supplier performance inconsistencie
+Forecast demand trends based on seasonal/cyclical data
+
+
+
+What We Expect From Yo
+Technical Clean, optimized, and well-documented SQL code
+Analytical Thinking: Ability to turn raw data into insights that solve real business problems
+Communication: Clear presentation of findings, rationale, and business impact
+Creativity: Go beyond the provided queries — suggest additional insights or visualizations we haven’t
+considered.
+
+
+
+@ caciitg
+
+Expected Business Impact
+
+
+By the end of this project, your solution should help Urban Retail Co.
+Achieve smarter inventory decisions based on actual dat
+Reduce stockouts and overstock
+Improve supply chain efficienc
+Enhance customer satisfaction and boost profitability
+
+
+
+Final Submission Should Includ
+SQL scripts and documentation
+Entity Relationship Diagram (ERD) or schema design
+Inventory KPI dashboard/report (mocked-up or real)
+A brief executive summary (1-2 pages) outlining your key insights and recommendations.
+
+
+
+
+Dataset
+
+
+Access the dataset using the following link: 
+Link
+
+
+
+
+Project Mentors
+
+Kahaan Soni : +91 96878 7576
+Abhi Tanwar : +91 9643228268
+
+Resources : 
+
+Link
+
+@ caciitg
+
+Optimizing Revenue 
+
+Leakage & Profitability 
+
+in the Hospitality Sector
+Introduction
+
+
+In the competitive and dynamic hospitality industry, hotels and resorts often face
+unexplained revenue leakages, fluctuating profitability, and underutilized service offerings.
+These issues can stem from a variety of factors, such as inefficient pricing strategies, lowperforming service segments (e.g., spa, room service, event hosting), poor upselling or
+cross-selling, misaligned customer targeting, or seasonal demand mismanagement.
+Despite having access to guest behavior data, booking patterns, and service usage metrics,
+many mid-sized hotel chains lack a systematic approach to extract actionable insights that
+directly improve their revenue streams and overall business model.
+
+Project Objective
+
+
+To develop a framework that helps hospitality businesses identify root causes of revenue leakage, propose
+data-backed product and pricing strategies, and justify them with business logic and forecasting models(like
+Week-on-Week (WoW) and critical business KPIs like Revenue, RevPAR, Occupancy %, and ADR).
+
+Project Components
+
+
+1. Data Analysis Module
+Booking trends (weekday vs. weekend, room types)
+Seasonal occupancy vs. revenue correlation
+Ancillary service usage (spa, meals, transport, etc.)
+Customer segmentation based on spending behavior  
+
+
+2. Root Cause Analysis
+Identify why certain rooms or services underperform
+Analyze cancellation reasons and last-minute discount patterns
+Assess competitor pricing models and customer reviews
+
+@ caciitg
+
+3. Consulting Recommendations
+New pricing and bundling strategies (e.g., couple packages, weekend getaways, corporate stays)
+Product optimization (shutting down/repurposing underperforming services)
+Operational tweaks (housekeeping, dynamic staffing)  
+
+
+4. Business Justification
+ROI and payback time for proposed changes
+Scenario analysis (best case, worst case, most likely)  
+
+
+5. Deliverables
+Dashboard with KPIs (Average Revenue Per Available Room - RevPAR, Occupancy %, Service Revenue
+Split, etc.)
+Recommendation report with visual justifications
+Optional: Interactive prototype on tools like Power BI/Tableau
+
+Example Use Case
+
+
+A hotel chain experiences declining profits during the off-season. You use data to show that event-hosting
+spaces are underbooked and suggest pivoting to co-working spaces during weekdays. You support this with
+ROI predictions and a breakdown of additional revenue expected.
+
+Dataset
+
+
+Access the dataset using the following link: 
+Link
+
+Project Mentor
+Pranjal Soni : +91 95120 1550
+Sumit Prabhakar : +91 70910 54666
+
+Resources : 
+
+Link
+
+@ caciitg
+
+Ethical Supply Chains 
+
+in the Electronics Industry
+Introduction
+
+
+In today’s global economy, supply chains are no longer just logistical systems—they are
+moral battlegrounds. The electronics industry, in particular, faces growing scrutiny over
+labor exploitation, environmental harm, and a lack of transparency across vast, multi-tiered
+supplier networks. As companies scale across borders, they inherit the challenge—and
+responsibility—of ensuring their operations reflect not just efficiency, but fairness and
+sustainability. High-profile cases, such as Apple’s manufacturing controversies in the early
+2010s, have drawn attention to the darker side of globalization. Allegations of unsafe
+working conditions, excessive overtime, and weak environmental safeguards triggered
+global outrage. Apple responded with a set of bold reforms: stronger supplier codes of
+conduct, detailed annual transparency reports, renewable energy initiatives, and worker
+empowerment programs. While Apple’s response sparked industry-wide conversations,
+many companies—especially small and mid-sized firms—still struggle to implement
+meaningful, transparent, and enforceable ESG (Environmental, Social, and Governance)
+practices. As supply chains grow increasingly complex, the need for scalable, tech-enabled,
+and stakeholder-driven solutions becomes urgent. This project challenges you to explore
+how global supply chains—especially in the electronics sector—can evolve to become
+engines of equity, resilience, and sustainability.
+
+Project Objective
+
+
+As part of a consulting team, your mission is to help multinational corporations — or even governments —
+fundamentally rethink and redesign their approach to ethical sourcing and sustainable supply chains. You are
+encouraged to explore the issue from diverse perspectives and define your own strategic path within this
+broader challenge. Your solution may take the form of innovative policies, technological tools, partnership
+models, or new frameworks — whatever you believe will create the most meaningful and scalable impact.
+
+@ caciitg
+
+Project Component
+Ethical Labor Practices: How can companies ensure safe, fair, and inclusive working environments
+across all supplier tiers, especially in countries with limited oversight?
+Environmental Sustainability: What strategies can reduce the ecological footprint of electronics
+production—from resource extraction to end-of-life disposal?
+Supply Chain Transparency: How might emerging technologies support greater visibility, traceability,
+and accountability?
+Technology Integration: How can digital tools (AI, blockchain, IoT, etc.) proactively detect violations or
+automate ESG reporting?
+Stakeholder Accountability: What models engage not just corporations, but also governments,
+consumers, NGOs, and workers in co-creating solutions?
+
+Scope of Wor
+Diagnostic Assessment: Evaluate current ethical and sustainability practices in global supply chains
+using comparative benchmarking (e.g., Apple, Nike, Unilever, Fairphone, Nestlé).
+Policy Framework: Recommend policy shifts or government interventions to strengthen ESG
+compliance and enforcement.
+Innovation Playbook: Identify and prototype technologies that enable real-time ESG monitoring, risk
+detection, or supplier verification.
+Supplier Engagement Strategy: Design programs to help suppliers build ESG capabilities through
+incentives, training, and tools.
+Collaboration Model: Propose industry-wide platforms for sharing best practices, harmonizing
+standards, and fostering public-private cooperation.
+
+Deliverable
+A strategic plan or whitepaper outlining your approach and rationale.
+A prototype (e.g., dashboard, digital tool, app) for supply chain monitoring or ESG compliance.
+A supplier engagement toolkit with training materials, checklists, and incentive ideas.
+A set of policy or regulatory recommendations to support ethical sourcing.
+A comparative case study analysis and recommendations for scaling best practices.
+A crisis response framework for addressing ESG violations or public scrutiny.
+
+@ caciitg
+
+Guiding Question
+How can companies gain visibility into deeper supplier tiers where most violations occur
+What are the trade-offs between voluntary codes of conduct and government mandates?
+How might small firms adopt ESG practices without large budgets or dedicated compliance teams?
+What types of incentives—regulatory, financial, reputational—are most effective for driving change?
+How can we make ESG transparency not just a responsibility, but a competitive edge?
+
+Why This Matters
+
+
+Behind every smartphone, laptop, or wearable lies a web of decisions that affect lives, livelihoods, and the
+planet. From cobalt mines in the Congo to assembly plants in Southeast Asia, the ethical burden of global
+consumption often falls on the most vulnerable. Yet these systems can be reimagined. This is not just an
+academic exercise—it’s an opportunity to design the future of responsible globalization. Your ideas could
+influence real corporate policies, government strategies, or even tech solutions that shape how the world does
+business.
+
+Call for Action
+
+
+You have the chance to turn critical thinking into impact. Approach this challenge not just as students, but as
+future changemakers. Explore, question, create—and most importantly, imagine a world where global supply
+chains are as just and sustainable as they are efficient.
+
+Project Mentor
+Poorvi Panjwani : +91 96191 8283
+Pulkit Garg : +91 90539 31511
+
+Resources : 
+
+Link
+
+@ caciitg
+
+Introduction
+
+
+
+Addressing Domestic
+
+Violence in India
+
+Domestic violence is one of the gravest social challenges in India, impacting the safety,
+dignity, and future of millions of women across socioeconomic strata. As per the National
+Family Health Survey (NFHS-5), nearly 30% of Indian women aged 15–49 have experienced
+domestic violence at least once. However, this is only the tip of the iceberg—countless
+cases remain unreported due to cultural stigma, lack of legal awareness, or fear of
+retaliation.
+
+This issue is not just about violence in the home—it is a systemic failure that perpetuates
+gender inequality, affects children, and hinders national development. The COVID-19
+pandemic further highlighted vulnerabilities, with a significant spike in domestic abuse
+during lockdown periods.
+
+Project Objective
+
+
+You are invited to act as Youth Policy Consultants to the Government of India. Your mission is to conduct
+comprehensive research, scrape and analyze real-world data, and design innovative, practical, and
+technology-driven solutions to combat domestic violence in India.
+
+Your final deliverable will directly influence policymaking and public program development at state and national
+levels.
+
+Goals of the Project
+
+
+Participants are expected to
+Understand the Landscape: Analyze the scale, frequency, and geographic distribution of domestic
+violence cases across Indian states using reliable public datasets and media sources
+Investigate Root Causes: Study cultural, social, economic, and legal factors contributing to domestic
+violence
+Identify Gaps in Support: Assess the availability and effectiveness of current support systems like
+helplines, shelters, and legal aid
+Design Solutions: Propose actionable, data-backed strategies that prevent, address, and respond to
+domestic violence.
+
+5. Innovate with Technology: Leverage apps, AI, IoT, or data analytics to create safe reporting
+channels, predictive models, or awareness platforms.
+
+@ caciitg
+
+Scope of Wor
+Data Collection & Analysis
+Scrape data from credible sources (NFHS, NCRB, NHRC, news archives, NGOs)
+Analyze data trends: age groups, regions, marital status, recurrence patterns
+Build visual dashboards or heat maps
+Stakeholder Mapping
+Identify roles of police, judiciary, NGOs, healthcare workers, and community leaders
+Analyze coordination challenges and propose collaborative frameworks
+Campaign Design
+Develop community-led awareness programs
+Craft communication strategies for urban and rural settings, focusing on youth and men
+Policy Recommendations
+Identify loopholes in current laws (e.g., Section 498A IPC, PWDVA Act)
+Suggest amendments or new bills focusing on rehabilitation, victim protection, and offender
+reformation
+Technology Integration
+Explore discreet mobile apps, AI-driven alert systems, or chatbot-based support
+Suggest use of blockchain for secure victim documentation or case tracking
+Sustainability & Funding
+Design cost-effective implementation strategies
+Propose public-private partnership models or CSR-based funding mechanisms.
+
+Deliverables
+
+
+1. Comprehensive Research Report (min 15+ pages
+Includes data analysis, solution architecture, and policy recommendations.
+
+
+2. Executive Presentation (10+ slides
+Summary for policymakers, focusing on impact and feasibility.
+
+
+3. Prototype or Demo (Optional but Encouraged
+App, dashboard, or awareness campaign mockup.
+
+
+4. Implementation Roadma
+Timeline, budget estimation, stakeholder responsibility matrix, success metrics.
+
+@ caciitg
+
+Guiding Question
+
+How can we build discreet yet accessible channels for victims to report abuse
+What role can AI and data analytics play in identifying high-risk households or regions
+How do we challenge and change harmful societal norms
+What incentives can encourage community-based reporting and bystander intervention
+How can we make the judicial and police systems more empathetic and survivor-centric?
+
+Severity of the Issue
+
+
+
+Domestic violence is not just a personal crisis—it is a human rights violation and a public health emergency. It
+leaves deep psychological and economic scars, perpetuates gender-based violence across generations, and
+undermines India’s global human development goals.
+
+Call to Action
+
+
+
+This is your opportunity to become a changemaker. Use your skills, passion, and academic training to shape
+safer futures for millions of Indian women and girls. Your ideas today could lead to policy action tomorrow.
+
+Together, let’s create a country where every home is a place of safety—not fear
+
+Project Mentors :
+
+Abhishek Das : +91 72176 8043
+Subhashree Kedia : +91 93480 72274
+
+Resources : 
+
+Link
+
+
